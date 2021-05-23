@@ -1,0 +1,8 @@
+param N_value := 3;
+param H_max := 1;
+param W_max := 10;
+
+param:   H    W := 
+1      0.5   1
+2      0.5   0.5
+3      0.5   0.5;
