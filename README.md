@@ -26,5 +26,5 @@ and solved with [Gurobi](https://www.gurobi.com/).
 The problem equations are
 ![Problem setup 1](images/problem-equations01.png)
 and rotation can be allowed by introducing the disjunctions
-[!Problem setup 2](images/problem-equations02.png)
+![Problem setup 2](images/problem-equations02.png)
 More details can be found in the report.
